@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mombe\\OneDrive\\Desktop\\Programs\\bloks\\Blocks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3CF4E4-F03F-4ABC-833E-A471DB272645}|Blocks\\Blocks.csproj|c:\\users\\mombe\\onedrive\\desktop\\programs\\bloks\\blocks\\blocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3CF4E4-F03F-4ABC-833E-A471DB272645}|Blocks\\Blocks.csproj|solutionrelative:blocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mombe\\OneDrive\\Desktop\\Programs\\bloks\\Blocks\\Blocks\\Program.cs",
+              "RelativeDocumentMoniker": "Blocks\\Program.cs",
+              "ToolTip": "C:\\Users\\mombe\\OneDrive\\Desktop\\Programs\\bloks\\Blocks\\Blocks\\Program.cs",
+              "RelativeToolTip": "Blocks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:55:52.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
